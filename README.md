@@ -1,4 +1,2 @@
 # cow
-moo
-
 HI
